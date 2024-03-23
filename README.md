@@ -51,7 +51,7 @@ POST /api/email/send - Send a e-mail from your sender to the destination
 **BODY**
 ```json
 {
-  "to": "liveskipperdev@gmail.com",
+  "to": "juceliocoelho2022@gmail.com",
   "subject": "teste",
   "body": "teste"
 }
